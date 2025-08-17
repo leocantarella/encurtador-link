@@ -114,4 +114,4 @@ http://localhost:8080
 
 ---
 
-Feito com ❤️ por Leonardo Meyer
+Feito por Leonardo Meyer
